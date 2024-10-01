@@ -32,7 +32,7 @@ Elevate your chat experience with the Polyfire SDK, seamlessly integrated into a
 1️⃣. Clone the repository:
 
 ```bash
-git clone https://github.com/polyfire-ai/polyfire-chat-react-boilerplate.git
+git clone https://github.com/fantastic0206/polyfire-chat-react-boilerplate.git
 ```
 
 2️⃣. Navigate to the project directory:
@@ -92,10 +92,6 @@ npx polyfire-js
 
 - React
 - TypeScript
-
-## ✨ Contributing
-
-Ideas? 🤔 Bugs? 🐞 Be a part of our journey! Check out [issues](https://github.com/polyfire-ai/polyfire-chat-react-boilerplate/issues) to contribute.
 
 ## 📜 License
 
